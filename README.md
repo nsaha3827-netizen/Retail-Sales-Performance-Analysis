@@ -77,5 +77,5 @@ A **star schema model** was created using Power Pivot:
 ---
 
 ## 👤 Author
-**Your Name**
-Aspiring Data Analyst
+**Niloy Saha**
+ Data Analyst
